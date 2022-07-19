@@ -19,6 +19,13 @@
     "image_path": "http://aromatv.net/aromastore/images/images/aroma_show.png",
     "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_show_demo.jpg",
     "is_coming_soon": false
+    },
+  {
+    "name": "AromaShow",
+    "apk_path": "http://aromatv.net/AromaShow.apk",
+    "image_path": "http://aromatv.net/aromastore/images/images/aroma_show.png",
+    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_show_demo.jpg",
+    "is_coming_soon": false
   },
   {
     "name": "AromaPro",
