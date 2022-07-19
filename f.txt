@@ -1,7 +1,7 @@
 [
   {
     "name": "ComingSoon",
-    "apk_path": "http://rockets.ws/vpn.apk",
+    "apk_path": "https://mega.nz/file/J7BhhQKY#SqqTfHmPX6P_tpW67HuA0PkrLptXBTolj2kRVrM3mEY",
     "image_path": "http://aromatv.net/aromastore/images/images/coming_soon.png",
     "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/coming_soon_demo.jpeg",
     "is_coming_soon": false
