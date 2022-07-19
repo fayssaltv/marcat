@@ -1,7 +1,7 @@
 [
   {
     "name": "ComingSoon",
-    "apk_path": "none",
+    "apk_path": "https://www.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk/file",
     "image_path": "http://aromatv.net/aromastore/images/images/coming_soon.png",
     "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/coming_soon_demo.jpeg",
     "is_coming_soon": true
