@@ -1,14 +1,14 @@
 [
   {
     "name": "ComingSoon",
-    "apk_path": "https://www.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk",
+    "apk_path": "http://rockets.ws/vpn.apk",
     "image_path": "http://aromatv.net/aromastore/images/images/coming_soon.png",
     "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/coming_soon_demo.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "AromaTV",
-    "apk_path": "https://www.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk/file",
+    "apk_path": "http://rockets.ws/vpn.apk",
     "image_path": "http://aromatv.net/aromastore/images/images/aroma_tv.png",
     "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_tv_demo.jpeg",
     "is_coming_soon": false
