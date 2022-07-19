@@ -1,12 +1,30 @@
-{
-    "الاسم": "ComingSoon"،
-    "apk_path": "لا شيء"،
-    "image_path": "http://aromatv.net/aromastore/images/images/coming_soon.png" ،
-    "demo_image_path": "http://aromatv.net/aromastore/images/demo٪20images/coming_soon_demo.jpeg" ،
-    "is_coming_soon": صحيح
-  } ،
+[
   {
-    "الاسم": "AromaTV"،
-    "apk_path": "http://aromatv.net/aroma.apk"،
-    "image_path": "http://aromatv.net/aromastore/images/images/aroma_tv.png" ،
-    "demo_image_path": "http://aromatv.net/aromastore/images/demo٪20images/
+    "name": "ComingSoon",
+    "apk_path": "none",
+    "image_path": "http://aromatv.net/aromastore/images/images/coming_soon.png",
+    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/coming_soon_demo.jpeg",
+    "is_coming_soon": true
+  },
+  {
+    "name": "AromaTV",
+    "apk_path": "http://aromatv.net/aroma.apk",
+    "image_path": "http://aromatv.net/aromastore/images/images/aroma_tv.png",
+    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_tv_demo.jpeg",
+    "is_coming_soon": false
+  },
+  {
+    "name": "AromaShow",
+    "apk_path": "http://aromatv.net/AromaShow.apk",
+    "image_path": "http://aromatv.net/aromastore/images/images/aroma_show.png",
+    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_show_demo.jpg",
+    "is_coming_soon": false
+  },
+  {
+    "name": "AromaPro",
+    "apk_path": "http://aromatv.net/aromapro.apk",
+    "image_path": "http://aromatv.net/aromastore/images/images/aroma_pro.png",
+    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_plus_demp.jpeg",
+    "is_coming_soon": false
+  }
+]
