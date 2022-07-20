@@ -3,7 +3,7 @@
   {
     "name": "ComingSoon",
     "apk_path": "https://t.me/apktoaabbr/640",
-    "image_path": "blob:https://web.telegram.org/06b1ec7c-0b39-42d7-baff-85b9e98b524f",
+    "image_path": "https://scontent.fqfd1-2.fna.fbcdn.net/v/t1.15752-9/288673331_419245540250765_7192231419037344375_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGT3Z5zVn3wEkpU90efiEun2uRYoJhLYpba5FigmEtilnRye-vQPqXE_Ph5XmslMzT35ihnqAzx8yiTo4eUtDFS&_nc_ohc=2kpaEHLDRxgAX9-hGFX&_nc_ht=scontent.fqfd1-2.fna&oh=03_AVK-TuKO12d0a_bo_GTi6BHFWv0ZrAhDX4wQS6d3jWwBgQ&oe=62FC2D0E",
     "demo_image_path": "blob:https://web.telegram.org/f8a85c99-bdb3-4686-b256-bdec16c2627c",
     "is_coming_soon": false
   },
