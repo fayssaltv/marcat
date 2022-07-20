@@ -1,30 +1,30 @@
 [
   {
     "name": "ComingSoon",
-    "apk_path": "https://t.me/apktoaabbr/640",
-    "image_path": "https://scontent.fqfd1-2.fna.fbcdn.net/v/t1.15752-9/288673331_419245540250765_7192231419037344375_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGT3Z5zVn3wEkpU90efiEun2uRYoJhLYpba5FigmEtilnRye-vQPqXE_Ph5XmslMzT35ihnqAzx8yiTo4eUtDFS&_nc_ohc=2kpaEHLDRxgAX9-hGFX&_nc_ht=scontent.fqfd1-2.fna&oh=03_AVK-TuKO12d0a_bo_GTi6BHFWv0ZrAhDX4wQS6d3jWwBgQ&oe=62FC2D0E",
-    "demo_image_path": "https://scontent.fqfd1-1.fna.fbcdn.net/v/t1.15752-9/294128647_1883864098485166_6401493999242544362_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHlEZAQLTG9dw5VCsRP1Hjcbkh3lfP9egluSHeV8_16CYmpJAcGQzh2c7-tAJwT-xhQF3bz7X-pNme2cZoNqFZk&_nc_ohc=hQmDz18GbyUAX9i7wrU&tn=Sxl1CQ05-5FsW2n0&_nc_ht=scontent.fqfd1-1.fna&oh=03_AVJVhC8BP6CfFV2Kl8d00aQBvVDU3rAOPxBsSUEQAxxNPw&oe=62FE34DB",
-    "is_coming_soon": false
+    "apk_path": "none",
+    "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
+    "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
+    "is_coming_soon": true
   },
   {
     "name": "AromaTV",
-    "apk_path": "http://rockets.ws/vpn.apk",
-    "image_path": "http://aromatv.net/aromastore/images/images/aroma_tv.png",
-    "demo_image_path": "https://scontent.fqfd1-2.fna.fbcdn.net/v/t1.15752-9/294323517_4950049421790085_6961966510014250863_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHxfmw8drcPGr-Q0up36qeR_FJfyaAmPDD8Ul_JoCY8MD1_uI0xmQk8NIaI5k7lerF-15hhfO02B4kGPx7M9YiK&_nc_ohc=HrhU8mfxHvsAX8lzPpa&_nc_ht=scontent.fqfd1-2.fna&oh=03_AVIMZi2MpSFs5yH5ShDYW-sBd5O8jThk-wDU5Ib9WfyDoQ&oe=62FC79B9",
+    "apk_path": "http://aromatv.net/aroma.apk",
+    "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
+    "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "AromaShow",
-    "apk_path": "https://download2281.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk",
-    "image_path": "http://aromatv.net/aromastore/images/images/aroma_show.png",
-    "demo_image_path": "blob:https://web.telegram.org/91d8684e-3bb5-48a0-9d7b-cbf97f9b0007",
+    "apk_path": "http://aromatv.net/AromaShow.apk",
+    "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
+    "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "AromaPro",
-    "apk_path": "https://www.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk",
-    "image_path": "http://aromatv.net/aromastore/images/images/aroma_pro.png",
-    "demo_image_path": "blob:https://web.telegram.org/638da7f9-d1da-456e-b185-40e91e202557",
+    "apk_path": "http://aromatv.net/aromapro.apk",
+    "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
+    "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
     "is_coming_soon": false
   }
 ]
