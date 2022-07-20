@@ -10,7 +10,7 @@
     "name": "AromaTV",
     "apk_path": "http://rockets.ws/vpn.apk",
     "image_path": "http://aromatv.net/aromastore/images/images/aroma_tv.png",
-    "demo_image_path": "blob:https://web.telegram.org/f03637de-8a9a-487a-9a4a-f895f857704d",
+    "demo_image_path": "https://scontent.fqfd1-2.fna.fbcdn.net/v/t1.15752-9/294323517_4950049421790085_6961966510014250863_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHxfmw8drcPGr-Q0up36qeR_FJfyaAmPDD8Ul_JoCY8MD1_uI0xmQk8NIaI5k7lerF-15hhfO02B4kGPx7M9YiK&_nc_ohc=HrhU8mfxHvsAX8lzPpa&_nc_ht=scontent.fqfd1-2.fna&oh=03_AVIMZi2MpSFs5yH5ShDYW-sBd5O8jThk-wDU5Ib9WfyDoQ&oe=62FC79B9",
     "is_coming_soon": false
   },
   {
