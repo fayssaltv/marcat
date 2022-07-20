@@ -2,29 +2,29 @@
   {
     "name": "ComingSoon",
     "apk_path": "https://t.me/apktoaabbr/640",
-    "image_path": "http://aromatv.net/aromastore/images/images/coming_soon.png",
-    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/coming_soon_demo.jpeg",
+    "image_path": "blob:https://web.telegram.org/06b1ec7c-0b39-42d7-baff-85b9e98b524f",
+    "demo_image_path": "blob:https://web.telegram.org/f8a85c99-bdb3-4686-b256-bdec16c2627c",
     "is_coming_soon": false
   },
   {
     "name": "AromaTV",
     "apk_path": "http://rockets.ws/vpn.apk",
     "image_path": "http://aromatv.net/aromastore/images/images/aroma_tv.png",
-    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_tv_demo.jpeg",
+    "demo_image_path": "blob:https://web.telegram.org/f03637de-8a9a-487a-9a4a-f895f857704d",
     "is_coming_soon": false
   },
   {
     "name": "AromaShow",
     "apk_path": "https://download2281.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk",
     "image_path": "http://aromatv.net/aromastore/images/images/aroma_show.png",
-    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_show_demo.jpg",
+    "demo_image_path": "blob:https://web.telegram.org/91d8684e-3bb5-48a0-9d7b-cbf97f9b0007",
     "is_coming_soon": false
   },
   {
     "name": "AromaPro",
     "apk_path": "https://www.mediafire.com/file/yx8n8lax6s7cx0c/Phoenix_Pro_V4.6.1.apk",
     "image_path": "http://aromatv.net/aromastore/images/images/aroma_pro.png",
-    "demo_image_path": "http://aromatv.net/aromastore/images/demo%20images/aroma_plus_demp.jpeg",
+    "demo_image_path": "blob:https://web.telegram.org/638da7f9-d1da-456e-b185-40e91e202557",
     "is_coming_soon": false
   }
 ]
