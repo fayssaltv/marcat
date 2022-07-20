@@ -1,5 +1,4 @@
 [
- },
   {
     "name": "ComingSoon",
     "apk_path": "https://t.me/apktoaabbr/640",
