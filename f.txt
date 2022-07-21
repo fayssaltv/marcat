@@ -1,7 +1,7 @@
 [
   {
     "name": "Phoenix Ott",
-    "apk_path": "blob:https://web.telegram.org/04195796-d9ad-4905-9be8-d43a24f52afa",
+    "apk_path": "https://gcdn.androidcombo.com/pro.mitapp.index/INDEX_5.0_apkcombo.com.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
