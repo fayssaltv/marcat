@@ -1,7 +1,7 @@
 [
   {
     "name": "Phoenix Ott",
-    "apk_path": "none",
+    "apk_path": "https://github.com/fayssaltv/STOR/blob/main/aromastore.apk?raw=true",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
