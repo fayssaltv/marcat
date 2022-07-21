@@ -4,7 +4,7 @@
     "apk_path": "none",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
-    "is_coming_soon": true
+    "is_coming_soon": false
   },
   {
     "name": "AromaTV",
