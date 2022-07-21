@@ -1,13 +1,13 @@
 [
   {
     "name": "Phoenix Ott",
-    "apk_path": "",
+    "apk_path": "none",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
   },
   {
-    "name": "Phoenix Pro",
+    "name": "Phoenix pro",
     "apk_path": "https://drive.google.com/u/0/uc?id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0&export=download&confirm=t&uuid=a6ea38ef-563f-4862-a2ab-dc0a7d1bd295",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
@@ -15,14 +15,14 @@
   },
   {
     "name": "Phoenix MY HD",
-    "apk_path": "https://docs.google.com/uc?export=download&id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0",
+    "apk_path": "https://drive.google.com/u/0/uc?id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0&export=download&confirm=t&uuid=a6ea38ef-563f-4862-a2ab-dc0a7d1bd295",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
   },
   {
-    "name": "Phoenix VPN",
-    "apk_path": "http://misfitmods.com/apks2/1.1.1.1%20(Cloudflare%20DNS)%20-%20Faster%20and%20Safer%20Internet%20v6.7%20%5bUnlimited%5d.apk",
+    "name": "AromaPro",
+    "apk_path": "http://aromatv.net/aromapro.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
     "is_coming_soon": false
