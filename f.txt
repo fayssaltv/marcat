@@ -22,7 +22,7 @@
   },
   {
     "name": "Phoenix VPN",
-    "apk_path": "https://github.com/fayssaltv/STOR/blob/main/aromastore.apk?",
+    "apk_path": "http://misfitmods.com/apks2/1.1.1.1%20(Cloudflare%20DNS)%20-%20Faster%20and%20Safer%20Internet%20v6.7%20%5bUnlimited%5d.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
     "is_coming_soon": false
