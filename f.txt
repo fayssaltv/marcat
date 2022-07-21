@@ -1,7 +1,8 @@
 [
   {
     "name": "Phoenix Ott",
-    "apk_path": "https://drive.google.com/u/0/uc?id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0",
+    "apk_path": "https://docs.google.com/uc?export=download&id=1kSNsziHhFtaMHfngcrKmd6gFAQHJ5wjg&export=download&confirm=t&uuid=a6ea38ef-563f-4862-a2ab-dc0a7d1bd295",
+",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
