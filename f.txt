@@ -8,21 +8,21 @@
   },
   {
     "name": "Phoenix pro",
-    "apk_path": "https://drive.google.com/u/0/uc?id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0&export=download&confirm=t&uuid=a6ea38ef-563f-4862-a2ab-dc0a7d1bd295",
+    "apk_path": "https://drive.google.com/uc?export=download&id=1cfxVTM_sT8CHw0Uen67joFcWz2buOUIv&confirm=t&uuid=4a4260d6-171c-4d3c-bf24-a14d9e569802",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "Phoenix MY HD",
-    "apk_path": "https://drive.google.com/u/0/uc?id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0&export=download&confirm=t&uuid=a6ea38ef-563f-4862-a2ab-dc0a7d1bd295",
+    "apk_path": "https://drive.google.com/uc?export=download&id=1cixYm1gHC-oXFCzAV-BbmMK8hJkVeP0l&confirm=t&uuid=a20a83e1-d665-44ec-b23e-c7cb6030ed09",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "Phoenix vpn",
-    "apk_path": "http://aromatv.net/aromapro.apk",
+    "apk_path": "https://misfitmods.com/apks2/10Fast%20VPN%20-%20VIP%20Paid%20HOT%20VPN%20Pro%20%7C%20Fastest%20VPN%20v1.0.1%20build%209%20[Paid].apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
     "is_coming_soon": false
