@@ -22,7 +22,7 @@
   },
   {
     "name": "Phoenix vpn",
-    "apk_path": "https://misfitmods.com/apks2/10Fast%20VPN%20-%20VIP%20Paid%20HOT%20VPN%20Pro%20%7C%20Fastest%20VPN%20v1.0.1%20build%209%20[Paid].apk",
+    "apk_path": "http://misfitmods.com/apks2/10Fast VPN - VIP Paid HOT VPN Pro | Fastest VPN v1.0.1 build 9 [Paid].apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
     "is_coming_soon": false
