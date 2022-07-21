@@ -1,27 +1,27 @@
 [
   {
-    "name": "ComingSoon",
+    "name": "Phoenix Ott",
     "apk_path": "none",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
   },
   {
-    "name": "AromaTV",
+    "name": "Phoenix Pro",
     "apk_path": "http://aromatv.net/aroma.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
     "is_coming_soon": false
   },
   {
-    "name": "AromaShow",
+    "name": "Phoenix MY HD",
     "apk_path": "http://aromatv.net/AromaShow.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
   },
   {
-    "name": "AromaPro",
+    "name": "Phoenix VPN",
     "apk_path": "http://aromatv.net/aromapro.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
