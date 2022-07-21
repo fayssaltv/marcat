@@ -1,28 +1,28 @@
 [
   {
     "name": "Phoenix Ott",
-    "apk_path": "https://github.com/fayssaltv/STOR/blob/main/aromastore.apk?raw=true",
+    "apk_path": "https://github.com/fayssaltv/STOR/blob/ff3bccb3010c4916bd65de4ffa789f21d3f1787e/aromastore.apk?raw=true",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "Phoenix Pro",
-    "apk_path": "http://aromatv.net/aroma.apk",
+    "apk_path": "https://github.com/fayssaltv/STOR/blob/ff3bccb3010c4916bd65de4ffa789f21d3f1787e/aromastore.apk?raw=true",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "Phoenix MY HD",
-    "apk_path": "http://aromatv.net/AromaShow.apk",
+    "apk_path": "https://github.com/fayssaltv/STOR/blob/main/aromastore.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
   },
   {
     "name": "Phoenix VPN",
-    "apk_path": "https://github.com/fayssaltv/STOR/raw/main/aromastore.apk",
+    "apk_path": "https://github.com/fayssaltv/STOR/blob/main/aromastore.apk?",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
     "is_coming_soon": false
