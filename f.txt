@@ -15,7 +15,7 @@
   },
   {
     "name": "Phoenix MY HD",
-    "apk_path": "http://misfitmods.com/apks2/Bozi%20Sports%20Live%20Stream%20v4.2%20%5bMod%5d%20%5bAndroid%20TV%5d.apk",
+    "apk_path": "https://docs.google.com/uc?export=download&id=1n4hGRe4ZF91Vc-6IcHT1cVhW25qbd2v0",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
