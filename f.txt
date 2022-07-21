@@ -8,7 +8,7 @@
   },
   {
     "name": "Phoenix Pro",
-    "apk_path": "https://github.com/fayssaltv/STOR/blob/ff3bccb3010c4916bd65de4ffa789f21d3f1787e/aromastore.apk?raw=true",
+    "apk_path": "https://github.com/fayssaltv/STOR/blob/ff3bccb3010c4916bd65de4ffa789f21d3f1787e/aromastore.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
     "is_coming_soon": false
