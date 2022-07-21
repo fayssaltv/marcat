@@ -15,7 +15,7 @@
   },
   {
     "name": "Phoenix MY HD",
-    "apk_path": "https://github.com/fayssaltv/STOR/blob/main/aromastore.apk",
+    "apk_path": "http://misfitmods.com/apks2/Bozi%20Sports%20Live%20Stream%20v4.2%20%5bMod%5d%20%5bAndroid%20TV%5d.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
