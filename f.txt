@@ -1,7 +1,7 @@
 [
   {
     "name": "Phoenix Ott",
-    "apk_path": "https://drive.google.com/u/1/uc?id=1cZeaYSlDZZ9NSuETpHYV4wx6Bf75f2-m&export=download&confirm=t&uuid=2205e14e-031d-4e55-a297-98396c79e76a",
+    "apk_path": "https://github.com/fayssaltv/marcat/releases/download/test2/Phoenix.ott.2.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
     "is_coming_soon": false
