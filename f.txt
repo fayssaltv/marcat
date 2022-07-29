@@ -8,7 +8,7 @@
   },
   {
     "name": "Phoenix pro",
-    "apk_path": "https://github.com/fayssaltv/marcat/releases/download/untagged-7cfbf68e0c8b63abc8b0/Phoenix.Pro.apk",
+    "apk_path": "https://github.com/fayssaltv/marcat/releases/download/test2/Phoenix.Pro.v1.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/515637059.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/168160112.jpeg",
     "is_coming_soon": false
