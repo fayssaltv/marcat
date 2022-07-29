@@ -25,6 +25,6 @@
     "apk_path": "hhttps://github.com/fayssaltv/marcat/releases/download/test2/MiXplorer_6.56.5.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
     "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
-    "is_coming_test": false
+    "is_coming_soon": false
   }
 ]
