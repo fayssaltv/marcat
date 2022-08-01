@@ -14,8 +14,8 @@
     "is_coming_soon": false
   },
   {
-    "name": "Phoenix MY HD",
-    "apk_path": "https://drive.google.com/uc?export=download&id=1cixYm1gHC-oXFCzAV-BbmMK8hJkVeP0l&confirm=t&uuid=a20a83e1-d665-44ec-b23e-c7cb6030ed09",
+    "name": "Phoenix TV",
+    "apk_path": "https://github.com/fayssaltv/marcat/releases/download/test2/PHOENIX.TV.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/984609756.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/339300871.jpeg",
     "is_coming_soon": false
