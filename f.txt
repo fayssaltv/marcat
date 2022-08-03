@@ -1,6 +1,6 @@
 [
   {
-    "name": "Phoenix Ott",
+    "name": "Phoenix Ott v2",
     "apk_path": "https://github.com/fayssaltv/marcat/releases/download/test2/Phoenix.ott.apk",
     "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
     "demo_image_path": "https://www10.0zz0.com/2022/07/20/20/318113207.jpeg",
@@ -21,10 +21,10 @@
     "is_coming_soon": false
   },
   {
-    "name": "Phoenix vpn",
-    "apk_path": "hhttps://github.com/fayssaltv/marcat/releases/download/test2/MiXplorer_6.56.5.apk",
-    "image_path": "https://www4.0zz0.com/2022/07/20/21/708899943.png",
-    "demo_image_path": "https://www.01net.com/app/uploads/2020/09/map-4636843_1920-1536x982.jpg",
+    "name": "Phoenix ott v1",
+    "apk_path": "https://github.com/fayssaltv/marcat/releases/download/test2/Phoenix.ott.v1.apk",
+    "image_path": "https://www4.0zz0.com/2022/07/20/21/878398909.png",
+    "demo_image_path": "https://github.com/fayssaltv/marcat/releases/download/test2/1659495209966.jpg",
     "is_coming_soon": false
   }
 ]
