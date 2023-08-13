@@ -1,0 +1,108 @@
+
+<head>
+<style type="text/css">*{margin:0px;overflow: hidden}iframe{margin:0px;overflow: hidden}</style>
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="none"></head>
+<html>
+   <head>
+      <meta name="theme-color" content="black">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+      <meta name="robots" content="noindex, nofollow">
+      <meta name="referrer" content="no-referrer">
+      <meta content="width=device-width, initial-scale=1" name="viewport">
+      <title>HLS PLAYER - AZROTV</title>
+      <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+ 
+</head>
+<body bgcolor="black" style="margin:0">
+<div id="Plyr3"></div>
+<script src="//ssl.p.jwpcdn.com/player/v/8.17.7/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="oXqNrzSZ9lQbo5mgdmfM+TwMP/GR4bAiKFXy8nlANTs=";
+filexxx= "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1";
+ jwplayer("Plyr3").setup({playlist: [{
+ file : "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"      }],
+ allowfullscreen:'true',skin: "", width: "100%", height: "100%", stretching: 'exactfit',
+ androidhls: 'true',hlshtml: true, primary: "html5", autostart: "true"});  </script>
+</body>
+</html><style>#close_ad{left:1px;top:1px;float:right;z-index:9999999999;position:absolute;padding:2px;font-weight:200;border-radius:2px;border:1px solid #fff;background:#e84118;color:#fff;text-align:center;cursor:pointer;width:24px;height:24px;line-height:24px;font-size:14px}#close_ad:hover{color: #000;opacity:.9}@media only screen and (max-width: 600px){#close_ad{width:26px;height:26px;line-height:26px;font-size:18px}}
+<iframe data-aa="1649014" src="ad_images/a-ads.php" scrolling="no" style="width:100%; height:100%; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe><!-- ADS End -->
+</div>
+</div> 
+
+<script>
+function myFunctionClose() {
+  var x = document.getElementById("ad_asd");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+<div style="display:none"> 
+   <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4637326,4,24,200,50,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4637326&101" alt="web statistic" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+<div class="share">
+<style>
+
+
+<button id="btnshare" onclick="document.getElementById('SHARE').style.display='block';document.getElementById('btnshare').style.display='none';document.getElementById('btnclose').style.display='block'" class='fxl' data-target='#embedmodal' data-toggle='modal' type='button'>
+<svg style='width:24px;height:24px' viewBox='0 0 24 24'>
+<path d='M11,6.5V9.33L8.33,12L11,14.67V17.5L5.5,12M13,6.43L18.57,12L13,17.57V14.74L15.74,12L13,9.26M5,3C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3H5Z' fill='currentColor'></path>
+</svg>
+</button>
+<button id="btnclose" onclick="document.getElementById('SHARE').style.display='none';document.getElementById('btnshare').style.display='block';document.getElementById('btnclose').style.display='none'" class='fxl' data-target='#embedmodal' data-toggle='modal' type='button' style="display: none;">
+<svg class="svg-icon" viewBox="0 0 20 20" style='width:24px;height:24px'>
+<path fill="none" d="M15.898,4.045c-0.271-0.272-0.713-0.272-0.986,0l-4.71,4.711L5.493,4.045c-0.272-0.272-0.714-0.272-0.986,0s-0.272,0.714,0,0.986l4.709,4.711l-4.71,4.711c-0.272,0.271-0.272,0.713,0,0.986c0.136,0.136,0.314,0.203,0.492,0.203c0.179,0,0.357-0.067,0.493-0.203l4.711-4.711l4.71,4.711c0.137,0.136,0.314,0.203,0.494,0.203c0.178,0,0.355-0.067,0.492-0.203c0.273-0.273,0.273-0.715,0-0.986l-4.711-4.711l4.711-4.711C16.172,4.759,16.172,4.317,15.898,4.045z"></path>
+</svg>
+</button>
+<div id="SHARE"  style="position: absolute;left: 0px; top: 0px;width: 100%;height: 100%;z-index: 3;background-color:rgb(0 0 0 / 21%);display:none">
+<div class="boxs" id="shareBox">
+<form>
+<textarea style="width: 95%; height: 80px; padding: 12px 20px; box-sizing: border-box; border: 2px solid #666; border-radius: 4px; background-color: rgb(0 0 0 / 71%);color: #f2f2f2; font-size: 16px; resize: auto;"><iframe src="https://azrotv.com/pyr/?id=https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1" width="620" height="350" frameborder="0" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowfullscreen="true" style="border:none;"></iframe></textarea>
+</form>
+</div></div>
+</div>
+<div>
+</div><div class="adbn-wrap">
+<div>
+<p>
+
+<p>We have detected an adblocker in your browser, <br/>please consider supporting us by disabling your ad blocker.</p>
+<button id="adbnrb" type="button" name="button">I've disabled AdBlocker</button>
+</div>
+</div>
+<style> .adbn-wrap{ display: none; direction: ltr; justify-content: center; position: fixed; top: 0; bottom: 0; right: 0; left: 0; height: 100%; width: 100%; background: rgb(217 217 217 / 88%); backdrop-filter: blur(3px); z-index: 999; } .adbn-wrap div{ align-self: center; width: 30vw; background: rgb(0 0 0 / 80%); padding: 30px 20px; text-align: center; border-radius: 0 0 10px 10px; box-shadow: 0px 35px 20px -20px #ababab; color: #fff; border-top: 5px solid #ff0044; animation: popupanim ease-out 0.5s; animation-iteration-count: 1; } .adbn-wrap div p{ line-height: 1.8; margin-bottom: 0; font-size: 16px; } .adbn-wrap div button{ margin-top: 14px; background: #ffffff; color: #000; border: 0; border-radius: 4px; font-size: 14px; padding: 3px 12px; } @keyframes popupanim{ from{ opacity:0.3; transform:translate(0px,40px); } to{ opacity:1; transform:translate(0px,0px)  ; } } @media screen and (max-width: 1200px) { .adbn-wrap div{ width: 70vw; } } </style>
+<script>
+      try {
+        var request = new Request(
+          "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+          { method: "HEAD", mode: "no-cors" }
+        );
+        fetch(request)
+          .then(function (request) {
+          })
+          .catch(function (request) {
+	     let adbnwrap = document.querySelector(".adbn-wrap");
+             adbnwrap.style.display = "flex";
+          });
+      } catch (err) {
+      }
+      let adbnrefresh = document.querySelector("#adbnrb");
+      adbnrefresh.addEventListener("click", function () {
+        location.reload();
+      });
+</script>
